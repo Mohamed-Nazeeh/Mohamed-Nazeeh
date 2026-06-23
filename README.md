@@ -91,5 +91,5 @@ I have experience in both Frontend and Backend development, along with a solid f
 
 Feel free to connect, collaborate, or discuss technology and software development.
 
-* LinkedIn: [Your LinkedIn Profile]
-* Email: [Your Email]
+* LinkedIn: [https://linkedin.com/in/mohamed-nazeeh-ba11aa2a4]
+* Email: [nazeeh1102@gmail.com]
